@@ -32,7 +32,7 @@ class Solution_2 {
         while l1 != nil && l2 != nil {
             // 计算和
             var sum = l1!.val + l2!.val + carry
-            // 重新计算进位
+            // 计算进位
             carry = sum >= 10 ? 1 : 0
             // 更新和
             if carry == 1 {
@@ -57,12 +57,13 @@ class Solution_2 {
             
             // 计算和
             var sum = remainNode!.val + carry
-            // 重新计算进位
+            // 计算进位
             carry = sum >= 10 ? 1 : 0
             // 更新和
             if carry == 1 {
                 sum -= 10
             }
+            
             tail?.next = ListNode(sum)
             tail = tail?.next
             remainNode = remainNode?.next

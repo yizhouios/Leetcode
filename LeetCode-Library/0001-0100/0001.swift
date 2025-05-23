@@ -31,6 +31,3 @@ public class Solution_0001 : NSObject {
         return []
     }
 }
-
-
-71340227+yizhou@users.noreply.github.com

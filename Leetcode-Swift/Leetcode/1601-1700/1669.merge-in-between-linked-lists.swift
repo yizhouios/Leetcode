@@ -2,7 +2,7 @@
 //  1669.merge-in-between-linked-lists.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/7/8.
+//  Created by yizhou on 2021/7/8.
 //
 
 import Foundation

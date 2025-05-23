@@ -2,7 +2,7 @@
 //  38.zi-fu-chuan-de-pai-lie-lcof.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/5/16.
+//  Created by yizhou on 2021/5/16.
 //
 
 import Foundation

@@ -2,7 +2,7 @@
 //  44.shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/5/20.
+//  Created by yizhou on 2021/5/20.
 //
 
 import Foundation

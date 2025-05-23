@@ -2,7 +2,7 @@
 //  21.diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/5/7.
+//  Created by yizhou on 2021/5/7.
 //
 
 import Foundation

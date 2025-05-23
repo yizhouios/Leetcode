@@ -2,7 +2,7 @@
 //  104.maximum-depth-of-binary-tree.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/4/15.
+//  Created by yizhou on 2021/4/15.
 //
 
 import Foundation

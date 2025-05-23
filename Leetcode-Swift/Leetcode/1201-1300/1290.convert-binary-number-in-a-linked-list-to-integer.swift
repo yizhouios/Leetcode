@@ -2,7 +2,7 @@
 //  1290.convert-binary-number-in-a-linked-list-to-integer.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/7/7.
+//  Created by yizhou on 2021/7/7.
 //
 
 import Foundation

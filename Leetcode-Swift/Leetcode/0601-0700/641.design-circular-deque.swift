@@ -2,7 +2,7 @@
 //  641.design-circular-deque.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/7/4.
+//  Created by yizhou on 2021/7/4.
 //
 
 import Foundation

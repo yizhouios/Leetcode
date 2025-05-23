@@ -2,7 +2,7 @@
 //  14-2.jian-sheng-zi-ii-lcof.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/4/29.
+//  Created by yizhou on 2021/4/29.
 //
 
 import Foundation

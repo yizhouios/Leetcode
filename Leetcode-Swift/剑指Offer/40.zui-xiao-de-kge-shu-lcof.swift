@@ -2,7 +2,7 @@
 //  40.zui-xiao-de-kge-shu-lcof.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/5/18.
+//  Created by yizhou on 2021/5/18.
 //
 
 import Foundation

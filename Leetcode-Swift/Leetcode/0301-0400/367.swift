@@ -2,7 +2,7 @@
 //  367.valid-perfect-square.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/4/17.
+//  Created by yizhou on 2021/4/17.
 //
 
 import Foundation

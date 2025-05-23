@@ -2,7 +2,7 @@
 //  109.convert-sorted-list-to-binary-search-tree.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/6/14.
+//  Created by yizhou on 2021/6/14.
 //
 
 import Foundation

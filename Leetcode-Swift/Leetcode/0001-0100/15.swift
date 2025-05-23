@@ -2,7 +2,7 @@
 //  15.3sum.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/4/7.
+//  Created by yizhou on 2021/4/7.
 //
 
 import Foundation

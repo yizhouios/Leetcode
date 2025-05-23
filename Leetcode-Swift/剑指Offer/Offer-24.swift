@@ -2,7 +2,7 @@
 //  24.fan-zhuan-lian-biao-lcof.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/5/8.
+//  Created by yizhou on 2021/5/8.
 //
 
 import Foundation

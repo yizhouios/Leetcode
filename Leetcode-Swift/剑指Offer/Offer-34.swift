@@ -2,7 +2,7 @@
 //  34.er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/5/12.
+//  Created by yizhou on 2021/5/12.
 //
 
 import Foundation

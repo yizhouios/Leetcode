@@ -2,7 +2,7 @@
 //  547.number-of-provinces.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/4/22.
+//  Created by yizhou on 2021/4/22.
 //
 
 import Foundation

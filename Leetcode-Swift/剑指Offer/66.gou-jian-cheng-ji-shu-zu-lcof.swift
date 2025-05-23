@@ -2,7 +2,7 @@
 //  66.gou-jian-cheng-ji-shu-zu-lcof.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/6/5.
+//  Created by yizhou on 2021/6/5.
 //
 
 import Foundation

@@ -2,7 +2,7 @@
 //  20.biao-shi-shu-zhi-de-zi-fu-chuan-lcof.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/5/7.
+//  Created by yizhou on 2021/5/7.
 //
 
 import Foundation

@@ -2,7 +2,7 @@
 //  56.1.shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/5/28.
+//  Created by yizhou on 2021/5/28.
 //
 
 import Foundation

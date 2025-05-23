@@ -2,7 +2,7 @@
 //  232.implement-queue-using-stacks.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/4/4.
+//  Created by yizhou on 2021/4/4.
 //
 
 import Foundation

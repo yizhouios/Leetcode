@@ -2,7 +2,7 @@
 //  706.design-hashmap.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/7/3.
+//  Created by yizhou on 2021/7/3.
 //
 
 import Foundation

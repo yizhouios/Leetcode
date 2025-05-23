@@ -2,7 +2,7 @@
 //  06.cong-wei-dao-tou-da-yin-lian-biao-lcof.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/4/25.
+//  Created by yizhou on 2021/4/25.
 //
 
 import Foundation

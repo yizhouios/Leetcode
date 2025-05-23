@@ -2,7 +2,7 @@
 //  70.climbing-stairs.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/4/19.
+//  Created by yizhou on 2021/4/19.
 //
 
 import Foundation

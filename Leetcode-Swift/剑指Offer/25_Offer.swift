@@ -2,7 +2,7 @@
 //  25.he-bing-liang-ge-pai-xu-de-lian-biao-lcof.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/5/8.
+//  Created by yizhou on 2021/5/8.
 //
 
 import Foundation

@@ -2,7 +2,7 @@
 //  455.assign-cookies.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/4/14.
+//  Created by yizhou on 2021/4/14.
 //
 
 import Foundation

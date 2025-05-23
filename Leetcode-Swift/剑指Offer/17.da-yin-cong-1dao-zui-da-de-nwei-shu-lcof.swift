@@ -2,7 +2,7 @@
 //  17.da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/5/1.
+//  Created by yizhou on 2021/5/1.
 //
 
 import Foundation

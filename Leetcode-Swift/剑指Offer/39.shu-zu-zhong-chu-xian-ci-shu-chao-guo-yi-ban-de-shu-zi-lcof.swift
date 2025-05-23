@@ -2,7 +2,7 @@
 //  39.shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/5/17.
+//  Created by yizhou on 2021/5/17.
 //
 
 import Foundation

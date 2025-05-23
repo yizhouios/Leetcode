@@ -2,7 +2,7 @@
 //  49.chou-shu-lcof.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/5/23.
+//  Created by yizhou on 2021/5/23.
 //
 
 import Foundation

@@ -2,7 +2,7 @@
 //  29.shun-shi-zhen-da-yin-ju-zhen-lcof.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/5/9.
+//  Created by yizhou on 2021/5/9.
 //
 
 import Foundation

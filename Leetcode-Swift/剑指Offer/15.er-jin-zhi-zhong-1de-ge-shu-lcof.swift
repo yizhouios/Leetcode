@@ -2,7 +2,7 @@
 //  15.er-jin-zhi-zhong-1de-ge-shu-lcof.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/4/30.
+//  Created by yizhou on 2021/4/30.
 //
 
 import Foundation

@@ -2,7 +2,7 @@
 //  817.linked-list-components.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/6/22.
+//  Created by yizhou on 2021/6/22.
 //
 
 import Foundation

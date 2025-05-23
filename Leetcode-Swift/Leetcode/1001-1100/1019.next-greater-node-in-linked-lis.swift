@@ -2,7 +2,7 @@
 //  1019.next-greater-node-in-linked-lis.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/6/24.
+//  Created by yizhou on 2021/6/24.
 //
 
 import Foundation

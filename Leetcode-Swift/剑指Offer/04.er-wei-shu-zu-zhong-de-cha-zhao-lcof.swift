@@ -2,7 +2,7 @@
 //  04.er-wei-shu-zu-zhong-de-cha-zhao-lcof.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/4/25.
+//  Created by yizhou on 2021/4/25.
 //
 
 import Foundation

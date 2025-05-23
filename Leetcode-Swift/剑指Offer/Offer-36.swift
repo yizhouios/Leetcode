@@ -2,7 +2,7 @@
 //  36.er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/5/14.
+//  Created by yizhou on 2021/5/14.
 //
 
 import Foundation

@@ -2,7 +2,7 @@
 //  64.qiu-12n-lcof.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/6/4.
+//  Created by yizhou on 2021/6/4.
 //
 
 import Foundation

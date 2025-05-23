@@ -2,7 +2,7 @@
 //  43.1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/5/20.
+//  Created by yizhou on 2021/5/20.
 //
 
 import Foundation

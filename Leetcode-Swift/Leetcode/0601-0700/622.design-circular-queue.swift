@@ -2,7 +2,7 @@
 //  622.design-circular-queue.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/7/5.
+//  Created by yizhou on 2021/7/5.
 //
 
 import Foundation

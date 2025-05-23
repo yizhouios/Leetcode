@@ -2,7 +2,7 @@
 //  1721.swapping-nodes-in-a-linked-list.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/6/19.
+//  Created by yizhou on 2021/6/19.
 //
 
 import Foundation

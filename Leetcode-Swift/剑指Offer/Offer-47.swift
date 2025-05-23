@@ -2,7 +2,7 @@
 //  47.li-wu-de-zui-da-jie-zhi-lcof.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/5/22.
+//  Created by yizhou on 2021/5/22.
 //
 
 import Foundation

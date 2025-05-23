@@ -2,7 +2,7 @@
 //  918.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/7/30.
+//  Created by yizhou on 2021/7/30.
 //
 
 import Foundation

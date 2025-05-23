@@ -2,7 +2,7 @@
 //  1347.minimum-number-of-steps-to-make-two-strings-anagram.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/4/13.
+//  Created by yizhou on 2021/4/13.
 //
 
 import Foundation

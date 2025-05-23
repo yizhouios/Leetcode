@@ -2,7 +2,7 @@
 //  53.zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/5/25.
+//  Created by yizhou on 2021/5/25.
 //
 
 import Foundation

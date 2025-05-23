@@ -2,7 +2,7 @@
 //  37.xu-lie-hua-er-cha-shu-lcof.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/5/15.
+//  Created by yizhou on 2021/5/15.
 //
 
 import Foundation

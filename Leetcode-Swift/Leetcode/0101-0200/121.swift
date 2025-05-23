@@ -2,7 +2,7 @@
 //  121.best-time-to-buy-and-sell-stock.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/4/14.
+//  Created by yizhou on 2021/4/14.
 //
 
 import Foundation

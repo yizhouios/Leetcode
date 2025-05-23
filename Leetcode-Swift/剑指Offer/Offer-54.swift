@@ -2,7 +2,7 @@
 //  54.er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/5/26.
+//  Created by yizhou on 2021/5/26.
 //
 
 import Foundation

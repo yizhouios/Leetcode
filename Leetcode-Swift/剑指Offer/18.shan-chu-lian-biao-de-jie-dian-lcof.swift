@@ -2,7 +2,7 @@
 //  18.shan-chu-lian-biao-de-jie-dian-lcof.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/5/2.
+//  Created by yizhou on 2021/5/2.
 //
 
 import Foundation

@@ -2,7 +2,7 @@
 //  432.all-oone-data-structure.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/7/1.
+//  Created by yizhou on 2021/7/1.
 //
 
 import Foundation

@@ -2,7 +2,7 @@
 //  06_82_Day20Plan.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/8/24.
+//  Created by yizhou on 2021/8/24.
 //
 
 import Foundation

@@ -2,7 +2,7 @@
 //  10.qing-wa-tiao-tai-jie-wen-ti-lcof-II.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/4/27.
+//  Created by yizhou on 2021/4/27.
 //
 
 import Foundation

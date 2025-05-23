@@ -2,7 +2,7 @@
 //  10.02.group-anagrams-lcci.swift
 //  Leetcode-Swift
 //
-//  Created by 95cc on 2021/4/13.
+//  Created by yizhou on 2021/4/13.
 //
 
 import Foundation
